@@ -1,6 +1,7 @@
 ## Hi, I'm Hardik 👋🏾 😎 💻
 
-I'm a Blockchain Developer Engineer.
+I'm a Blockchain Developer.
+
 🔭 I'm currently building game on Flow Blockchian, an all new blockchain built to power next-gen games, apps and the developers who build them.
 
 👨‍💻 I love Digital Collectiables, and i'm also learning about DeFi!
