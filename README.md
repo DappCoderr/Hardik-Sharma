@@ -13,3 +13,4 @@ I'm a Blockchain Developer.
 ## Find me around the web 🌎:
 Email📹: er.hardiksharma05@gmail.com 
 LinkedIn 💼: https://www.linkedin.com/in/hardik-sharma/
+<a href="https://www.linkedin.com/in/hardik-sharma/">LinkedIn</a>
